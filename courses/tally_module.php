@@ -236,7 +236,7 @@
               </br>
               <a style="width:170px;border-radius: 25px;" class="btn btn-colored btn-xs btn-flat btn-theme-colored2 mt-0" href="https://docs.google.com/forms/d/17qZMtJzQJDaOJMIoLc5Pqxuv0d_Qaho08NIcA5qcaPA/">JOIN LIVE CLASS</a>
               </br>
-              <a style="color:orange;width:210px;border-radius: 25px;" class="btn btn-dark btn-xs btn-flat mt-0" href="/free-modules/tally_module.pdf" download><i class="fa fa-download"></i> &nbsp;Download Tally Module</a><br>
+              <a style="color:orange;width:210px;border-radius: 25px;" class="btn btn-dark btn-xs btn-flat mt-0" href="/free-modules/tally_module.txt" download><i class="fa fa-download"></i> &nbsp;Download Tally Module</a><br>
               </br>
               <ul>
             </br>
