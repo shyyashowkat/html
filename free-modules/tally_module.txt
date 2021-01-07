@@ -1,0 +1,66 @@
+Chapter No & Name 
+1 - What is Tally?
+2 - What is Accounting?
+3 - Qualification to Learn Tally?
+4 - Download & Install Tally ERP9
+5 - How to Start Learning Tally
+6 - What is Financial Year
+7 - What is GST
+8 - What is Regular & Composition Firms
+9 - How to Create Company in Tally
+10 - Gateway of Tally introduction
+11 - How to Activate GST features in Tally
+12 - What is Voucher in Tally
+13 - What is Ledger & Group in Tally
+14 - Types of Purchase
+15 - Types of Accounting
+16 - Purchase Exempted Entry in Tally
+17 - Purchase Exempted Entry (Practice)
+18 - Purchase GST Entry in Tally
+19 - Purchase IGST Entry in Tally
+20 - Purchase interstate Exempted entry
+21 - How to Check Purchase Report
+22 - Edit & Delete Ledger & Items..
+23 - Types of Sales
+24 - Sales Exempted Entry in Tally
+25 - Sales GST Entry in Tally
+26 - Sales IGST Entry in Tally
+27 - Sales interstates Exempted Entry
+28 - How to Check Sales Report 
+29 - Balance Sheet and Profit & Loss 
+30 - Receipt Entry in Tally
+31 - Payment Entry in Tally
+32 - Contra Entry in Tally
+33 - What is Debit Note & Credit Note
+34 - Purchase Return Entry in Tally
+35 - Sales Return Entry in Tally
+36 - Debit Note Entry in Tally
+37 - Credit Note Entry in Tally
+38 - Golden Rules of Accounting
+39 - Capital Account Group
+40 - Bank Account Group
+41 - Secured Loan Group
+42 - Unsecured Loan Group
+43 - Deposit (assets) Group
+44 - Loan & Advances (assets) Group
+45 - Fixed Assets Group
+46 - Sundry Creditors Group
+47 - Purchase Account Group
+48 - Duties & Taxes Group
+49 - Current Liability Group
+50 - Sundry Debtors Group
+51 - Sales Account Group
+52 - Indirect Expenses Group
+53 - Indirect Income Group
+54 - Direct Income Group
+55 - Direct Expenses Group
+56 - Investment Group
+57 - Cash in Hand Group
+58 - Branch/Division Group
+59 - Provision Group
+60 - Misc. Expenses Group
+61 - Suspense Account Group
+62 - Bank OD Account Group
+63 - Current Assets Group
+64 - Loans Liability Group
+65 - Course Complete

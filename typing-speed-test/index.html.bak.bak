@@ -1,0 +1,398 @@
+<html lang="en">
+<head>
+  <title>Test Typing Speed | LearnIntern & Grow</title>
+  <link href="/images/logo-and-favicon/favicon.png" rel="icon" type="image/png">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script type="text/javascript" src="jquery-3.5.1.min.js"></script>
+  <style>
+ body {
+  text-align: center;
+
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  margin-bottom: 20px;
+  font-size: 3rem;
+  color:black;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.timer, .errors,
+.accuracy, .cpm, .wpm {
+  background-color: #37BF91;
+  height: 60px;
+  width: 70px;
+  margin: 8px;
+  padding: 12px;
+  border-radius: 20%;
+  box-shadow: #EEE 5px 8px 5px;
+
+}
+
+.cpm, .wpm  {
+  display: none;
+}
+
+.header_text {
+  text-transform: uppercase;
+  font-size: 0.6rem;
+  font-weight: 600;
+  color: white;
+}
+
+.curr_time, .curr_errors,
+.curr_accuracy, .curr_cpm,
+.curr_wpm {
+  font-size: 2.75rem;
+  color: white;
+}
+
+.quote {
+  background-color: #0f9667;
+  font-size: 1.5rem;
+  margin: 10px;
+  padding: 25px;
+  box-shadow: #EEE 5px 8px 5px;
+  color:white;
+}
+
+.input_area {
+  background-color: #f2e8c1;
+  height: 250px;
+  width: 50%;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 15px;
+  padding: 20px;
+  border: 0px;
+  box-shadow: #EEE 5px 8px 5px;
+  outline: 0px;
+}
+
+.incorrect_char {
+  color: red;
+  text-decoration: underline;
+}
+
+.correct_char {
+  color: darkgreen;
+}
+
+.restart_btn {
+  display: none;
+  background-color: #BBB;
+  font-size: 1.5rem;
+  padding: 10px;
+  border: 0px;
+  outline: 0px;
+  border-radius: .3em
+}
+
+ .print{margin: 50px auto;color:black;border:1px solid #fff;border-radius: .1em;height:200px;width:50%;text-align:center;display: none;}
+
+ .print form input[type="text"]{border: 1px solid; border-radius: .3em;padding: 10px;}
+
+  .print form input[type="submit"]{border:1px solid;color:black;background-color: #2089c0}
+
+ .submit_btn{padding: 10px;color:white;background-color: #2089c0;border:1px solid #fff;border-radius: 2em;cursor:pointer;
+  outline: 0px}
+
+  .external-link a{text-decoration:none;font-size:15px;color:#darkblue;}
+
+  .external-link a:hover{color: #2089c0}
+  .button {
+  float:right;
+  background-color: #37BF91;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 22px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 25px;
+}
+  </style>
+</head>
+<body>
+  <p><a href="/" class="button">Back to Home</a><br><br><br></p>
+  <div class="container">
+    <div class="heading">Test Your Typing Speed & Get Certificate</div>
+    <div class="header">
+      <div class="wpm">
+        <div class="header_text">WPM</div>
+        <div class="curr_wpm">100</div>
+      </div>
+      <div class="cpm">
+        <div class="header_text">CPM</div>
+        <div class="curr_cpm">100</div>
+      </div>
+      <div class="errors">
+        <div class="header_text">Errors</div>
+        <div class="curr_errors">0</div>
+      </div>
+      <div class="timer">
+        <div class="header_text">Time</div>
+        <div class="curr_time">5m</div>
+      </div>
+      <div class="accuracy">
+        <div class="header_text">% Accuracy</div>
+        <div class="curr_accuracy">100</div>
+      </div>
+    </div>
+
+    <div class="quote">Click below to start your typing speed test.</div>
+    <textarea class="input_area" placeholder="start typing here..." oninput="processCurrentText()"
+      onfocus="startGame()"></textarea>
+    <button class="restart_btn" onclick="resetValues()">Restart</button>
+  </div>
+
+
+<div class="print">
+  <form method="post" action="certificate.php">
+    <h2>Enter Your Name To Download Your Certificate.</h2>
+    <input type="text" size="30" placeholder="Enter your name Here" required="required" name="name" >
+      <input type="hidden" id="wpm" name="wpm" value="">
+    <input type="hidden" id="cpm" name="cpm" value="">
+    <input type="hidden" id="errors" name="errors" value="">
+    <input type="hidden" id="acurr" name="acurr" value="">
+    <button class="submit_btn" type="submit" class="btn" ><i class="fa fa-download"> Download</i></button>
+  </form>
+  <div class="external-link">and <br><a style="color:red" href="/screening-test/" target="_blank">Click here to give Interview Test according to your Position</a></div>
+   <div class="external-link">If you have downloaded your certificate.<a style="color:orange" href="https://placementconsultancy.in/internet-speed-test/" target="_blank">Click to Test your internet speed.</a> </div>
+</div><br><br><br><br><br><br><br><br>
+<p style="color:grey; font-size:18px">Provided by<a style="color:#37BF91"> LearnIntern.com</span><br>
+<a href="https://essentialservices.in/" style="color:grey; font-size:18px;text-decoration:none;">Copyright &copy; 2020 ESSENTIAL SERVICES. All Rights Reserved</a></p>
+<script>
+  // define the time limit
+let TIME_LIMIT = 300;
+
+// define quotes to be used
+let quotes_array = [
+  "Push yourself, because no one else is going to do it for you.",
+  "Failure is the condiment that gives success its flavor.",
+  "Wake up with determination. Go to bed with satisfaction.",
+  "It's going to be hard, but hard does not mean impossible.",
+  "Learning never exhausts the mind.",
+  "The only way to do great work is to love what you do.",
+  "I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.",
+  "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+  "Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.",
+  "I believe that everything happens for a reason. People change so that you can learn to let go, things go wrong so that you appreciate them when they're right, you believe lies so you eventually learn to trust no one but yourself, and sometimes good things fall apart so better things can fall together."
+];
+
+// selecting required elements
+let timer_text = document.querySelector(".curr_time");
+let accuracy_text = document.querySelector(".curr_accuracy");
+let error_text = document.querySelector(".curr_errors");
+let cpm_text = document.querySelector(".curr_cpm");
+let wpm_text = document.querySelector(".curr_wpm");
+let quote_text = document.querySelector(".quote");
+let input_area = document.querySelector(".input_area");
+let restart_btn = document.querySelector(".restart_btn");
+let cpm_group = document.querySelector(".cpm");
+let wpm_group = document.querySelector(".wpm");
+let error_group = document.querySelector(".errors");
+let accuracy_group = document.querySelector(".accuracy");
+let certificate = document.querySelector(".print");
+
+
+let timeLeft = TIME_LIMIT;
+let timeElapsed = 0;
+let total_errors = 0;
+let errors = 0;
+let accuracy = 0;
+let characterTyped = 0;
+let current_quote = "";
+let quoteNo = 0;
+let timer = null;
+
+function updateQuote() {
+  quote_text.textContent = null;
+  current_quote = quotes_array[quoteNo];
+
+  // separate each character and make an element
+  // out of each of them to individually style them
+  current_quote.split('').forEach(char => {
+    const charSpan = document.createElement('span')
+    charSpan.innerText = char
+    quote_text.appendChild(charSpan)
+  })
+
+  // roll over to the first quote
+  if (quoteNo < quotes_array.length - 1)
+    quoteNo++;
+  else
+    quoteNo = 0;
+}
+
+function processCurrentText() {
+
+  // get current input text and split it
+  curr_input = input_area.value;
+  curr_input_array = curr_input.split('');
+
+  // increment total characters typed
+  characterTyped++;
+
+  errors = 0;
+
+  quoteSpanArray = quote_text.querySelectorAll('span');
+  quoteSpanArray.forEach((char, index) => {
+    let typedChar = curr_input_array[index]
+
+    // characters not currently typed
+    if (typedChar == null) {
+      char.classList.remove('correct_char');
+      char.classList.remove('incorrect_char');
+
+      // correct characters
+    } else if (typedChar === char.innerText) {
+      char.classList.add('correct_char');
+      char.classList.remove('incorrect_char');
+
+      // incorrect characters
+    } else {
+      char.classList.add('incorrect_char');
+      char.classList.remove('correct_char');
+
+      // increment number of errors
+      errors++;
+    }
+  });
+
+  // display the number of errors
+  error_text.textContent = total_errors + errors;
+
+  // update accuracy text
+  let correctCharacters = (characterTyped - (total_errors + errors));
+  let accuracyVal = ((correctCharacters / characterTyped) * 100);
+  accuracy_text.textContent = Math.round(accuracyVal);
+
+document.getElementById('acurr').value = accuracyVal;
+
+  // if current text is completely typed
+  // irrespective of errors
+  if (curr_input.length == current_quote.length) {
+    updateQuote();
+
+    // update total errors
+    total_errors += errors;
+
+    // clear the input area
+    input_area.value = "";
+  }
+}
+
+function updateTimer() {
+  if (timeLeft > 0) {
+    // decrease the current time left
+    timeLeft--;
+
+    // increase the time elapsed
+    timeElapsed++;
+
+    // update the timer text
+    timer_text.textContent = timeLeft + "s";
+  }
+  else {
+    // finish the game
+    finishGame();
+  }
+}
+
+function finishGame() {
+  // stop the timer
+  clearInterval(timer);
+
+  // disable the input area
+  input_area.disabled = true;
+
+  // show finishing text
+  quote_text.textContent = "Click on restart to start a new Test";
+
+  // display restart button
+  restart_btn.style.display = "block";
+
+// show form
+certificate.style.display = "block";
+
+  // calculate cpm and wpm
+  cpm = Math.round(((characterTyped / timeElapsed) * 60));
+  wpm = Math.round((((characterTyped / 5) / timeElapsed) * 60));
+
+  // update cpm and wpm text
+  cpm_text.textContent = cpm;
+  wpm_text.textContent = wpm;
+
+  // display the cpm and wpm
+  cpm_group.style.display = "block";
+  wpm_group.style.display = "block";
+
+    document.getElementById('wpm').value = wpm;
+  document.getElementById('cpm').value = cpm;
+  document.getElementById('errors').value = errors;
+}
+
+
+function startGame() {
+
+  resetValues();
+  updateQuote();
+
+  // clear old and start a new timer
+  clearInterval(timer);
+  timer = setInterval(updateTimer, 1000);
+}
+
+function resetValues() {
+  timeLeft = TIME_LIMIT;
+  timeElapsed = 0;
+  errors = 0;
+  total_errors = 0;
+  accuracy = 0;
+  characterTyped = 0;
+  quoteNo = 0;
+  input_area.disabled = false;
+
+  input_area.value = "";
+  quote_text.textContent = 'Click on the area below to start the Test.';
+  accuracy_text.textContent = 100;
+  timer_text.textContent = timeLeft + 's';
+  error_text.textContent = 0;
+  restart_btn.style.display = "none";
+  cpm_group.style.display = "none";
+  wpm_group.style.display = "none";
+
+  certificate.style.display = "none";
+}
+
+</script>
+<script type="text/javascript">
+$(document).ready(function () {
+    //Disable cut copy paste
+    $('body').bind('cut copy paste', function (e) {
+        e.preventDefault();
+    });
+
+    //Disable mouse right click
+    $("body").on("contextmenu",function(e){
+        return false;
+    });
+});
+</script>
+
+</body>
+</html>

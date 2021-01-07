@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: https://learnintern.com/sitemap.xml
+Disallow: https://learnintern.com/admin-login/*
+Disallow: https://learnintern.com/counselor/*
+Disallow: https://learnintern.com/dashboard.php
+Disallow: https://learnintern.com/logout.php

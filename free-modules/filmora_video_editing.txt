@@ -1,0 +1,15 @@
+1. Record computer screen
+2.import video, split video and join video
+3.import audio on audio track, adjust audio and apply audio effects
+4.add lower third in videos
+5.Add customize text effects 
+6.Adding images and Blur effect in background
+7.Add  transitions in video
+8.add effects in video - blur, Mossaic, Arrows etc.
+9.Add elements in video - smiley shape, arrows etc.
+10. Add split screen - multiple screen
+11. Use of crop and pan and zoom
+12. Add green screen over on video
+13. Increase speed of video
+14.Freeze frame in video
+15.save project and export video
