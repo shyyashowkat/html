@@ -817,6 +817,461 @@
   </div>
 
 
+  <div class="section-title text-center">
+          <div class="row">
+            <div class="col-md-12">
+              <h2 class="title">Data Science <span class="text-theme-colored2">Courses</span></h2>
+              <p class="text-uppercase mb-0">Choose Your Desired Course</p>
+              <div class="double-line-bottom-centered-theme-colored-2"></div>
+            </div>
+          </div>
+        </div>
+
+          <div class="row mtli-row-clearfix">
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                <div class="course-single-item style2 text-center mb-40">
+                  <div class="course-thumb">
+                    <img class="img-fullwidth" alt="" src="/images/course/seo1.jpg">
+                    <div class="price-tag">12000 INR</div>
+                    <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
+                  </div>
+                  <div class="course-details clearfix p-20 pt-15">
+                    <div class="course-top-part pull-left mr-40">
+                      <a href="/courses/seo.php"><h4 class="mt-0 mb-5">SEO Onpage and Off Page</h4></a>
+                      <ul class="list-inline">
+                        <li class="review-stars">
+                          <i class="fa fa-star"></i>
+                          <i class="fa fa-star"></i>
+                          <i class="fa fa-star"></i>
+                          <i class="fa fa-star"></i>
+                          <i class="fa fa-star"></i>
+                        </li>
+                        <li>11 <i class="fa fa-comments-o text-theme-colored2"></i></li>
+                        <li>68 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
+                      </ul>
+                    </div>
+                    <div class="author-thumb">
+                      <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
+                    </div>
+                    <div class="clearfix"></div>
+                    <p class="course-description mt-20">This course includes the expertise required for your promotion methods, taking into account the amount of exposure something gets on social media.</p>
+                    <ul class="list-inline course-meta mt-15">
+                      <ul class="list-inline">
+                        <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>15 Days</li>
+                        <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
+                        <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
+                      </ul>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+              <div class="course-single-item style2 text-center mb-40">
+                <div class="course-thumb">
+                  <img class="img-fullwidth" alt="" src="/images/course/smo1.jpg">
+                  <div class="price-tag">12000 INR</div>
+                  <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
+                </div>
+                <div class="course-details clearfix p-20 pt-15">
+                  <div class="course-top-part pull-left mr-40">
+                    <a href="/courses/smo.php"><h4 class="mt-0 mb-5">Social Media Optimizations (FB, Linkedin, Twitter, Instagram)</h4></a>
+                    <ul class="list-inline">
+                      <li class="review-stars">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                      </li>
+                      <li>28<i class="fa fa-comments-o text-theme-colored2"></i></li>
+                      <li>68 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
+                    </ul>
+                  </div>
+                  <div class="author-thumb">
+                    <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
+                  </div>
+                  <div class="clearfix"></div>
+                  <p class="course-description mt-20">This course will add expertise in you by adding knowledge of how to increase awareness of new products and services, connect with customers, and ameliorate potential damaging news.</p>
+                  <ul class="list-inline">
+                  <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>7 Days</li>
+                <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
+               <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
+            </ul>
+                </div>
+                       </div>
+                     </div>
+                     <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                         <div class="course-single-item style2 text-center mb-40">
+                           <div class="course-thumb">
+                             <img class="img-fullwidth" alt="" src="/images/course/analytics.jpg">
+                             <div class="price-tag">12000 INR</div>
+                             <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
+                           </div>
+                           <div class="course-details clearfix p-20 pt-15">
+                             <div class="course-top-part pull-left mr-40">
+                               <a href="/courses/analytics.php"><h4 class="mt-0 mb-5">Analytics - Google</h4></a>
+                               <ul class="list-inline">
+                                 <li class="review-stars">
+                                   <i class="fa fa-star"></i>
+                                   <i class="fa fa-star"></i>
+                                   <i class="fa fa-star"></i>
+                                   <i class="fa fa-star"></i>
+                                   <i class="fa fa-star"></i>
+                                 </li>
+                                 <li>98 <i class="fa fa-comments-o text-theme-colored2"></i></li>
+                                 <li>222 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
+                               </ul>
+                             </div>
+                             <div class="author-thumb">
+                               <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
+                             </div>
+                             <div class="clearfix"></div>
+                             <p class="course-description mt-20">This course will help you to learn a tool that you need to better understand your customers. You can then use those business insights to take action.</p>
+                             <ul class="list-inline">
+                               <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>7 Days</li>
+                               <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
+                               <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
+                             </ul>
+                   </div>
+               </div>
+            </div>
+
+            <div class="section-title text-center">
+          <div class="row">
+            <div class="col-md-12">
+              <h2 class="title">Non IT<span class="text-theme-colored2">Courses</span></h2>
+              <p class="text-uppercase mb-0">Choose Your Desired Course</p>
+              <div class="double-line-bottom-centered-theme-colored-2"></div>
+            </div>
+          </div>
+        </div>
+        
+            
+    <div class="row mtli-row-clearfix">
+      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+          <div class="course-single-item style2 text-center mb-40">
+            <div class="course-thumb">
+              <img class="img-fullwidth" alt="" src="images/course/basic.jpg">
+              <div class="price-tag">12000 INR</div>
+              <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
+            </div>
+            <div class="course-details clearfix p-20 pt-15">
+              <div class="course-top-part pull-left mr-40">
+                <a href="/courses/basic-computer-course.php"><h4 class="mt-0 mb-5">Basic Computer Course - Word | Excel | PPT | Notepad++ | Google Docs | Google Sheets</h4></a>
+                <ul class="list-inline">
+                  <li class="review-stars">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                  </li>
+                  <li>125 <i class="fa fa-comments-o text-theme-colored2"></i></li>
+                  <li>268 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
+                </ul>
+              </div>
+              <div class="author-thumb">
+                <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
+              </div>
+              <div class="clearfix"></div>
+              <p class="course-description mt-20">After completing the course the incumbent is able to the use the computer for basic purposes of preparing his personnel/business letters, viewing information on anything, or use computer for any digital purpose.</p>
+              <ul class="list-inline">
+              <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>14 Days</li>
+            <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
+           <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
+        </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+          <div class="course-single-item style2 text-center mb-40">
+            <div class="course-thumb">
+              <img class="img-fullwidth" alt="" src="/images/course/video.jpg">
+              <div class="price-tag">12000 INR</div>
+              <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
+            </div>
+            <div class="course-details clearfix p-20 pt-15">
+              <div class="course-top-part pull-left mr-40">
+                <a href="/courses/video-editing.php"><h4 class="mt-0 mb-5">Video Ads Making & Video Editing</h4></a>
+                <ul class="list-inline">
+                  <li class="review-stars">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                  </li>
+                  <li>33 <i class="fa fa-comments-o text-theme-colored2"></i></li>
+                  <li>98 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
+                </ul>
+              </div>
+              <div class="author-thumb">
+                <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
+              </div>
+              <div class="clearfix"></div>
+              <p class="course-description mt-20">This course will help you to learn how to create and optimize a good quality video.</p>
+              <ul class="list-inline">
+                 <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>7 Days</li>
+                 <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
+                 <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
+               </ul>
+            </div>
+                   </div>
+                 </div>
+      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+        <div class="course-single-item style2 text-center mb-40">
+          <div class="course-thumb">
+            <img class="img-fullwidth" alt="" src="images/course/repair.jpg">
+            <div class="price-tag">12000 INR</div>
+            <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
+          </div>
+          <div class="course-details clearfix p-20 pt-15">
+            <div class="course-top-part pull-left mr-40">
+              <a href="/courses/computer-repair-beginner.php"><h4 class="mt-0 mb-5">Computer Repair Course - Beginner</h4></a>
+              <ul class="list-inline">
+                <li class="review-stars">
+                  <i class="fa fa-star"></i>
+                  <i class="fa fa-star"></i>
+                  <i class="fa fa-star"></i>
+                  <i class="fa fa-star"></i>
+                  <i class="fa fa-star"></i>
+                </li>
+                <li>32 <i class="fa fa-comments-o text-theme-colored2"></i></li>
+                <li>68 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
+              </ul>
+            </div>
+            <div class="author-thumb">
+              <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
+            </div>
+            <div class="clearfix"></div>
+            <p class="course-description mt-20">Learn slow computer fix and other tricks and secrets to fixing your own computer with basic computer repair course.</p>
+            <ul class="list-inline">
+              <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>7 Days</li>
+              <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
+              <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
+            </ul>
+          </div>
+                 </div>
+               </div>
+               <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                   <div class="course-single-item style2 text-center mb-40">
+                     <img class="img-fullwidth" alt="" src="/images/course/english1.jpg">
+                     <div class="price-tag">24000 INR</div>
+                     <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
+                   </div>
+                   <div class="course-details clearfix p-20 pt-15">
+                     <div class="course-top-part pull-left mr-40">
+                       <a href="/courses/english.php"><h4 class="mt-0 mb-5">Learn English - Spoken and Written</h4></a>
+                       <ul class="list-inline">
+                         <li class="review-stars">
+                           <i class="fa fa-star"></i>
+                           <i class="fa fa-star"></i>
+                           <i class="fa fa-star"></i>
+                           <i class="fa fa-star"></i>
+                           <i class="fa fa-star-o"></i>
+                         </li>
+                         <li>87 <i class="fa fa-comments-o text-theme-colored2"></i></li>
+                         <li>289 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
+                       </ul>
+                     </div>
+                     <div class="author-thumb">
+                       <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
+                     </div>
+                     <div class="clearfix"></div>
+                     <p class="course-description mt-20">Select your level, from beginner (CEFR level A1) to advanced (CEFR level C2), and improve your writing and speaking skills as an expert.</p>
+                     <ul class="list-inline">
+                       <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>7 Days</li>
+                       <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
+                       <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
+                     </ul>
+                   </div>
+         </div>
+      </div>
+      <div class="row mtli-row-clearfix">
+        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+            <div class="course-single-item style2 text-center mb-40">
+              <div class="course-thumb">
+                <img class="img-fullwidth" alt="" src="images/course/repair1.jpg">
+                <div class="price-tag">12000 INR</div>
+                <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
+              </div>
+              <div class="course-details clearfix p-20 pt-15">
+                <div class="course-top-part pull-left mr-40">
+                  <a href="/courses/computer-repair-advance.php"><h4 class="mt-0 mb-5">Computer Repair Course - Advance</h4></a>
+                  <ul class="list-inline">
+                    <li class="review-stars">
+                      <i class="fa fa-star"></i>
+                      <i class="fa fa-star"></i>
+                      <i class="fa fa-star-half"></i>
+                      <i class="fa fa-star-o"></i>
+                      <i class="fa fa-star-o"></i>
+                    </li>
+                    <li>88 <i class="fa fa-comments-o text-theme-colored2"></i></li>
+                    <li>181 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
+                  </ul>
+                </div>
+                <div class="author-thumb">
+                  <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
+                </div>
+                <div class="clearfix"></div>
+                <p class="course-description mt-20">After completing this Hardware Course you will become expert in computer hardware repairing Engineering of desktop and laptop computers.</p>
+                <ul class="list-inline">
+                <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>7 Days</li>
+              <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
+             <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
+          </ul>
+              </div>
+            </div>
+          </div>
+        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+          <div class="course-single-item style2 text-center mb-40">
+            <div class="course-thumb">
+              <img class="img-fullwidth" alt="" src="images/course/hr.jpg">
+              <div class="price-tag">12000 INR</div>
+              <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
+            </div>
+            <div class="course-details clearfix p-20 pt-15">
+              <div class="course-top-part pull-left mr-40">
+                <a href="/courses/HR.php"><h4 class="mt-0 mb-5">Human Resource Management</h4></a>
+                <ul class="list-inline">
+                  <li class="review-stars">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                  </li>
+                  <li>78 <i class="fa fa-comments-o text-theme-colored2"></i></li>
+                  <li>134 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
+                </ul>
+              </div>
+              <div class="author-thumb">
+                <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
+              </div>
+              <div class="clearfix"></div>
+              <p class="course-description mt-20">his course covers every aspect of human resource management from the planning, recruitment, selection, training, performance management, to the compensation.</p>
+              <ul class="list-inline">
+                <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>7 Days</li>
+                <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
+                <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
+              </ul>
+            </div>
+                   </div>
+                 </div>
+                 <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                     <div class="course-single-item style2 text-center mb-40">
+                       <div class="course-thumb">
+                         <img class="img-fullwidth" alt="" src="images/course/filmora_video_editing.png">
+                         <div class="price-tag">10000 INR</div>
+                         <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
+                       </div>
+                       <div class="course-details clearfix p-20 pt-15">
+                         <div class="course-top-part pull-left mr-40">
+                           <a href="/courses/filmora_video_editing.php"><h4 class="mt-0 mb-5">Filmora Video Editing</h4></a>
+                           <ul class="list-inline">
+                             <li class="review-stars">
+                               <i class="fa fa-star"></i>
+                               <i class="fa fa-star"></i>
+                               <i class="fa fa-star-half"></i>
+                               <i class="fa fa-star-o"></i>
+                               <i class="fa fa-star-o"></i>
+                             </li>
+                             <li>32 <i class="fa fa-comments-o text-theme-colored2"></i></li>
+                             <li>68 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
+                           </ul>
+                         </div>
+                         <div class="author-thumb">
+                           <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
+                         </div>
+                         <div class="clearfix"></div>
+                         <p class="course-description mt-20">FilmoraGo- the best free HD video editor and video maker with all features, text, audio, emoji, special effects, filters, backgrounds, etc. FilmoraGo is an easy-to-use, full-featured video editor loaded with powerful tools.</p>
+                         <ul class="list-inline">
+                           <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>7 Days</li>
+                           <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
+                           <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
+                         </ul>
+                       </div>
+           </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+          <div class="course-single-item style2 text-center mb-40">
+            <div class="course-thumb">
+              <img class="img-fullwidth" alt="" src="images/course/tally_module.png">
+              <div class="price-tag">10000 INR</div>
+              <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
+            </div>
+            <div class="course-details clearfix p-20 pt-15">
+              <div class="course-top-part pull-left mr-40">
+                <a href="/courses/tally_module.php"><h4 class="mt-0 mb-5">Tally Module</h4></a>
+                <ul class="list-inline">
+                  <li class="review-stars">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                  </li>
+                  <li>32 <i class="fa fa-comments-o text-theme-colored2"></i></li>
+                  <li>68 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
+                </ul>
+              </div>
+              <div class="author-thumb">
+                <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
+              </div>
+              <div class="clearfix"></div>
+              <p class="course-description mt-20">Tally software has become the most wanted accounting software in many enterprises, Few Tally modules may automate the processes including auto emailing, workflow management, auto backup, audit trail, excel import, invoice format, and many more.</p>
+              <ul class="list-inline">
+                 <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>14 Days</li>
+                 <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
+                 <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
+               </ul>
+          </div>
+    </div>
+  </div>
+  
+  <div class="row mtli-row-clearfix" style="float:left">
+  <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+  <div class="course-single-item style2 text-center mb-40">
+    <div class="course-thumb">
+      <img class="img-fullwidth" alt="" src="images/course/basic_excel.jpeg">
+      <div class="price-tag">5000 INR</div>
+      <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
+    </div>
+    <div class="course-details clearfix p-20 pt-15">
+      <div class="course-top-part pull-left mr-40">
+        <a href="/courses/basic_excel.php"><h4 class="mt-0 mb-5">Basic Excel</h4></a>
+        <ul class="list-inline">
+          <li class="review-stars">
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star-o"></i>
+          </li>
+          <li>32 <i class="fa fa-comments-o text-theme-colored2"></i></li>
+          <li>68 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
+        </ul>
+      </div>
+      <div class="author-thumb">
+        <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
+      </div>
+      <div class="clearfix"></div>
+      <p class="course-description mt-20">a software program created by Microsoft that uses spreadsheets to organize numbers and data with formulas and functions. Excel analysis is ubiquitous around the world and used by businesses of all sizes to perform financial analysis.</p>
+      <ul class="list-inline">
+         <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>7 Days</li>
+         <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
+         <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
+       </ul>
+    </div>
+  </div>
+  </div>
+  
+  
+
+
+
+
+
 
             <div class="section-title text-center">
               <div class="row">
@@ -1059,459 +1514,7 @@
 
 
 
-                <div class="section-title text-center">
-                  <div class="row">
-                    <div class="col-md-12">
-                      <h2 class="text-uppercase title">Data Science <span class="text-theme-colored2">Courses</span></h2>
-                      <p class="text-uppercase mb-0">Choose Your Desired Course</p>
-                      <div class="double-line-bottom-centered-theme-colored-2"></div>
-                    </div>
-                  </div>
-                </div>
-
-                  <div class="row mtli-row-clearfix">
-                    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                        <div class="course-single-item style2 text-center mb-40">
-                          <div class="course-thumb">
-                            <img class="img-fullwidth" alt="" src="images/course/seo1.jpg">
-                            <div class="price-tag">12000 INR</div>
-                            <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
-                          </div>
-                          <div class="course-details clearfix p-20 pt-15">
-                            <div class="course-top-part pull-left mr-40">
-                              <a href="/courses/seo.php"><h4 class="mt-0 mb-5">SEO Onpage and Off Page</h4></a>
-                              <ul class="list-inline">
-                                <li class="review-stars">
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star-o"></i>
-                                </li>
-                                <li>11 <i class="fa fa-comments-o text-theme-colored2"></i></li>
-                                <li>68 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
-                              </ul>
-                            </div>
-                            <div class="author-thumb">
-                              <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
-                            </div>
-                            <div class="clearfix"></div>
-                            <p class="course-description mt-20">This course includes the expertise required for your promotion methods, taking into account the amount of exposure something gets on social media.</p>
-                            <ul class="list-inline">
-                              <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>15 Days</li>
-                              <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
-                              <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
-                            </ul>
-                          </div>
-                        </div>
-                      </div>
-                    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                      <div class="course-single-item style2 text-center mb-40">
-                        <div class="course-thumb">
-                          <img class="img-fullwidth" alt="" src="images/course/smo1.jpg">
-                          <div class="price-tag">12000 INR</div>
-                          <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
-                        </div>
-                        <div class="course-details clearfix p-20 pt-15">
-                          <div class="course-top-part pull-left mr-40">
-                            <a href="/courses/smo.php"><h4 class="mt-0 mb-5">Social Media Optimizations (FB, Linkedin, Twitter, Instagram)</h4></a>
-                            <ul class="list-inline">
-                              <li class="review-stars">
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star-o"></i>
-                              </li>
-                              <li>28 <i class="fa fa-comments-o text-theme-colored2"></i></li>
-                              <li>68 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
-                            </ul>
-                          </div>
-                          <div class="author-thumb">
-                            <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
-                          </div>
-                          <div class="clearfix"></div>
-                          <p class="course-description mt-20">This course will add expertise in you by adding knowledge of how to increase awareness of new products and services, connect with customers, and ameliorate potential damaging news.</p>
-                          <ul class="list-inline">
-                            <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>7 Days</li>
-                            <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
-                            <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
-                          </ul>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                      <div class="course-single-item style2 text-center mb-40">
-                        <div class="course-thumb">
-                          <img class="img-fullwidth" alt="" src="images/course/analytics.jpg">
-                          <div class="price-tag">12000 INR</div>
-                          <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
-                        </div>
-                        <div class="course-details clearfix p-20 pt-15">
-                          <div class="course-top-part pull-left mr-40">
-                            <a href="/courses/analytics.php"><h4 class="mt-0 mb-5">Analytics - Google</h4></a>
-                            <ul class="list-inline">
-                              <li class="review-stars">
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star-o"></i>
-                              </li>
-                              <li>98 <i class="fa fa-comments-o text-theme-colored2"></i></li>
-                              <li>222 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
-                            </ul>
-                          </div>
-                          <div class="author-thumb">
-                            <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
-                          </div>
-                          <div class="clearfix"></div>
-                          <p class="course-description mt-20">This course will help you to learn a tool that you need to better understand your customers. You can then use those business insights to take action.</p>
-                          <ul class="list-inline">
-                            <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>7 Days</li>
-                            <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
-                            <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
-                          </ul>
-                        </div>
-                      </div>
-                    </div>
-
-                  <div class="section-title text-center">
-                    <div class="row">
-                      <div class="col-md-12">
-                        <h2 class="title">Non IT <span class="text-theme-colored2">Courses</span></h2>
-                        <p class="text-uppercase mb-0">Choose Your Desired Course</p>
-                        <div class="double-line-bottom-centered-theme-colored-2"></div>
-                      </div>
-                    </div>
-                  </div>
-
-                    <div class="row mtli-row-clearfix">
-                      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 ">
-                          <div class="course-single-item style2 text-center mb-40">
-                            <div class="course-thumb">
-                              <img class="img-fullwidth" alt="" src="images/course/basic.jpg">
-                              <div class="price-tag">12000 INR</div>
-                              <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
-                            </div>
-                            <div class="course-details clearfix p-20 pt-15">
-                              <div class="course-top-part pull-left mr-40">
-                                <a href="/courses/basic-computer-course.php"><h4 class="mt-0 mb-5">Basic Computer Course - Word | Excel | PPT | Notepad++ | Google Docs | Google Sheets</h4></a>
-                                <ul class="list-inline">
-                                  <li class="review-stars">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star-o"></i>
-                                  </li>
-                                  <li>125 <i class="fa fa-comments-o text-theme-colored2"></i></li>
-                                  <li>268 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
-                                </ul>
-                              </div>
-                              <div class="author-thumb">
-                                <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
-                              </div>
-                              <div class="clearfix"></div>
-                              <p class="course-description mt-20">After completing the course the incumbent is able to the use the computer for basic purposes of preparing his personnel/business letters, viewing information on anything, or use computer for any digital purpose.</p>
-                              <ul class="list-inline">
-                                <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>14 Days</li>
-                                <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
-                                <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
-                              </ul>
-                            </div>
-                          </div>
-                        </div>
-
-                        
-
-                        
-                        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                          <div class="course-single-item style2 text-center mb-40">
-                            <div class="course-thumb">
-                              <img class="img-fullwidth" alt="" src="/images/course/video.jpg">
-                              <div class="price-tag">12000 INR</div>
-                              <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
-                            </div>
-                            <div class="course-details clearfix p-20 pt-15">
-                              <div class="course-top-part pull-left mr-40">
-                                <a href="/courses/video-editing.php"><h4 class="mt-0 mb-5">Video Ads Making & Video Editing</h4></a>
-                                <ul class="list-inline">
-                                  <li class="review-stars">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star-o"></i>
-                                  </li>
-                                  <li>33 <i class="fa fa-comments-o text-theme-colored2"></i></li>
-                                  <li>98 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
-                                </ul>
-                              </div>
-                              <div class="author-thumb">
-                                <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
-                              </div>
-                              <div class="clearfix"></div>
-                              <p class="course-description mt-20">This course will help you to learn how to create and optimize a good quality video.</p>
-                              <ul class="list-inline">
-                                <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>7 Days</li>
-                                <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
-                                <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
-                              </ul>
-                            </div>
-                          </div>
-                        </div>
-                      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                        <div class="course-single-item style2 text-center mb-40">
-                          <div class="course-thumb">
-                            <img class="img-fullwidth" alt="" src="images/course/repair.jpg">
-                            <div class="price-tag">12000 INR</div>
-                            <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
-                          </div>
-                          <div class="course-details clearfix p-20 pt-15">
-                            <div class="course-top-part pull-left mr-40">
-                              <a href="/courses/computer-repair-beginner.php"><h4 class="mt-0 mb-5">Computer Repair Course - Beginner</h4></a>
-                              <ul class="list-inline">
-                                <li class="review-stars">
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star-o"></i>
-                                </li>
-                                <li>32 <i class="fa fa-comments-o text-theme-colored2"></i></li>
-                                <li>68 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
-                              </ul>
-                            </div>
-                            <div class="author-thumb">
-                              <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
-                            </div>
-                            <div class="clearfix"></div>
-                            <p class="course-description mt-20">Learn slow computer fix and other tricks and secrets to fixing your own computer with basic computer repair course.</p>
-                            <ul class="list-inline">
-                               <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>7 Days</li>
-                               <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
-                               <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
-                             </ul>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                        <div class="course-single-item style2 text-center mb-40">
-                          <div class="course-thumb">
-                            <img class="img-fullwidth" alt="" src="images/course/english1.jpg">
-                            <div class="price-tag">24000 INR</div>
-                            <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
-                          </div>
-                          <div class="course-details clearfix p-20 pt-15">
-                            <div class="course-top-part pull-left mr-40">
-                              <a href="/courses/english.php"><h4 class="mt-0 mb-5">Learn English - Spoken and Written</h4></a>
-                              <ul class="list-inline">
-                                <li class="review-stars">
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star-o"></i>
-                                </li>
-                                <li>87 <i class="fa fa-comments-o text-theme-colored2"></i></li>
-                                <li>289 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
-                              </ul>
-                            </div>
-                            <div class="author-thumb">
-                              <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
-                            </div>
-                            <div class="clearfix"></div>
-                            <p class="course-description mt-20">Select your level, from beginner (CEFR level A1) to advanced (CEFR level C2), and improve your writing and speaking skills as an expert.</p>
-                            <ul class="list-inline">
-                              <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>240 Days</li>
-                              <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
-                              <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
-                            </ul>
-                          </div>
-                       </div>
-                     </div>
-                   </div>
-                      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                        <div class="course-single-item style2 text-center mb-40">
-                          <div class="course-thumb">
-                            <img class="img-fullwidth" alt="" src="images/course/repair1.jpg">
-                            <div class="price-tag">12000 INR</div>
-                            <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
-                          </div>
-                          <div class="course-details clearfix p-20 pt-15">
-                            <div class="course-top-part pull-left mr-40">
-                              <a href="/courses/computer-repair-advance.php"><h4 class="mt-0 mb-5">Computer Repair Course - Advance</h4></a>
-                              <ul class="list-inline">
-                                <li class="review-stars">
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star-o"></i>
-                                </li>
-                                <li>88 <i class="fa fa-comments-o text-theme-colored2"></i></li>
-                                <li>181 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
-                              </ul>
-                            </div>
-                            <div class="author-thumb">
-                              <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
-                            </div>
-                            <div class="clearfix"></div>
-                            <p class="course-description mt-20">After completing this Hardware Course you will become expert in computer hardware repairing Engineering of desktop and laptop computers.</p>
-                            <ul class="list-inline">
-                              <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>7 Days</li>
-                              <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
-                              <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
-                            </ul>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                        <div class="course-single-item style2 text-center mb-40">
-                          <div class="course-thumb">
-                            <img class="img-fullwidth" alt="" src="images/course/hr.jpg">
-                            <div class="price-tag">12000 INR</div>
-                            <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
-                          </div>
-                          <div class="course-details clearfix p-20 pt-15">
-                            <div class="course-top-part pull-left mr-40">
-                              <a href="/courses/HR.php"><h4 class="mt-0 mb-5">Human Resource Management</h4></a>
-                              <ul class="list-inline">
-                                <li class="review-stars">
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star-o"></i>
-                                </li>
-                                <li>78 <i class="fa fa-comments-o text-theme-colored2"></i></li>
-                                <li>134 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
-                              </ul>
-                            </div>
-                            <div class="author-thumb">
-                              <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
-                            </div>
-                            <div class="clearfix"></div>
-                            <p class="course-description mt-20">This course covers every aspect of human resource management from the planning, recruitment, selection, training, performance management, to the compensation.</p>
-                            <ul class="list-inline">
-                              <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>7 Days</li>
-                              <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
-                              <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>2 Hours</li>
-                            </ul>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                        <div class="course-single-item style2 text-center mb-40">
-                          <div class="course-thumb">
-                            <img class="img-fullwidth" alt="" src="images/course/filmora_video_editing.png">
-                            <div class="price-tag">10000 INR</div>
-                            <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
-                          </div>
-                          <div class="course-details clearfix p-20 pt-15">
-                            <div class="course-top-part pull-left mr-40">
-                              <a href="/courses/filmora_video_editing.php"><h4 class="mt-0 mb-5">Filmora Video Editing</h4></a>
-                              <ul class="list-inline">
-                                <li class="review-stars">
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star-o"></i>
-                                </li>
-                                <li>32 <i class="fa fa-comments-o text-theme-colored2"></i></li>
-                                <li>68 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
-                              </ul>
-                            </div>
-                            <div class="author-thumb">
-                              <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
-                            </div>
-                            <div class="clearfix"></div>
-                            <p class="course-description mt-20">FilmoraGo- the best free HD video editor and video maker with all features, text, audio, emoji, special effects, filters, backgrounds, etc. FilmoraGo is an easy-to-use, full-featured video editor loaded with powerful tools.</p>
-                            <ul class="list-inline">
-                               <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>7 Days</li>
-                               <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
-                               <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>1 Hours</li>
-                             </ul>
-                          </div>
-                        </div>
-                      </div>
-
-                      
-
-                      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                        <div class="course-single-item style2 text-center mb-40">
-                          <div class="course-thumb">
-                            <img class="img-fullwidth" alt="" src="images/course/tally_module.png">
-                            <div class="price-tag">10000 INR</div>
-                            <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
-                          </div>
-                          <div class="course-details clearfix p-20 pt-15">
-                            <div class="course-top-part pull-left mr-40">
-                              <a href="/courses/tally_module.php"><h4 class="mt-0 mb-5">Tally Module</h4></a>
-                              <ul class="list-inline">
-                                <li class="review-stars">
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star-o"></i>
-                                </li>
-                                <li>32 <i class="fa fa-comments-o text-theme-colored2"></i></li>
-                                <li>68 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
-                              </ul>
-                            </div>
-                            <div class="author-thumb">
-                              <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
-                            </div>
-                            <div class="clearfix"></div>
-                            <p class="course-description mt-20">Tally software has become the most wanted accounting software in many enterprises, Few Tally modules may automate the processes including auto emailing, workflow management, auto backup, audit trail, excel import, invoice format, and many more.</p>
-                            <ul class="list-inline">
-                               <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>30 Days</li>
-                               <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
-                               <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>1 Hours</li>
-                             </ul>
-                          </div>
-                        </div>
-                      </div>
-                  </div>
-
-                  <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                        <div class="course-single-item style2 text-center mb-40">
-                          <div class="course-thumb">
-                            <img class="img-fullwidth" alt="" src="images/course/basic_excel.jpeg">
-                            <div class="price-tag">5000 INR</div>
-                            <div class="order-btn"><a href="https://rzp.io/l/bo61s9oAi" class="btn btn-xs btn-theme-colored2">Get it now</a></div>
-                          </div>
-                          <div class="course-details clearfix p-20 pt-15">
-                            <div class="course-top-part pull-left mr-40">
-                              <a href="/courses/basic_excel.php"><h4 class="mt-0 mb-5">Basic Excel</h4></a>
-                              <ul class="list-inline">
-                                <li class="review-stars">
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star"></i>
-                                  <i class="fa fa-star-o"></i>
-                                </li>
-                                <li>32 <i class="fa fa-comments-o text-theme-colored2"></i></li>
-                                <li>68 <i class="fa fa-thumbs-o-up text-theme-colored2"></i></li>
-                              </ul>
-                            </div>
-                            <div class="author-thumb">
-                              <!--<img src="images/course/xs1.jpg" alt="" class="img-circle">-->
-                            </div>
-                            <div class="clearfix"></div>
-                            <p class="course-description mt-20">a software program created by Microsoft that uses spreadsheets to organize numbers and data with formulas and functions. Excel analysis is ubiquitous around the world and used by businesses of all sizes to perform financial analysis.</p>
-                            <ul class="list-inline">
-                               <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>7 Days</li>
-                               <li><i class="fa fa-book text-theme-colored2 mr-5"></i>4 Seats</li>
-                               <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>1 Hours</li>
-                             </ul>
-                          </div>
-                        </div>
-                      </div>
+                
 
 
     </section>

@@ -322,12 +322,12 @@
             <div class="double-line-bottom-theme-colored-2"></div>
             <h4 class="text-theme-colored2">Who this course is for:</h4>
             <ul style="list-style-type:disc">
-                <li>Eager to learn Python and Django once and for all</li>
-          <li>Looking forward to a career in cyber security</li>
-            <li>Want to learn Python programming for Python and Django</li>
-              <li>Willing to write their own cyber security tools</li>
-                <li>Passionate for Kali Linux and general Python and Django tools</li>
-                  <li>Looking to enhance IT skills and be prepared for hacker attacks</li>
+              <li>Eager to learn Tally  once and for all</li>
+              <li>Looking forward to a Tally</li>
+              <li>Tally software has become the most wanted accounting software in many enterprises</li>
+              <li>Willing to write their own Dashboard</li>
+              <li>Want to Saves time from mail typing and attachment</li>
+              <li>Using this module, the Tally accounting software user can restrict to make invoice when there is no stock</li>
             </ul>
             <h4 class="text-theme-colored2">What you'll learn ?</h4>
               <p style="color:black">&#10004; &nbsp;&nbsp;&nbsp;What is Tally?<br/>

@@ -322,12 +322,11 @@
             <div class="double-line-bottom-theme-colored-2"></div>
             <h4 class="text-theme-colored2">Who this course is for:</h4>
             <ul style="list-style-type:disc">
-                <li>Eager to learn C, C++ and DSA once and for all</li>
-          <li>Looking forward to a career in cyber security</li>
-            <li>Want to learn Python programming for C, C++ and DSA</li>
-              <li>Willing to write their own cyber security tools</li>
-                <li>Passionate for Kali Linux and general C, C++ and DSA tools</li>
-                  <li>Looking to enhance IT skills and be prepared for hacker attacks</li>
+              <li>Eager to learn C, C++ and DSA once and for all</li>
+              <li>Looking forward to a career in Software Development</li>
+              <li>Want to learn C, C++ and DSA</li>
+              <li>Willing to write their Software tools</li>
+              <li>Looking to enhance IT skills and be prepared for Jobs</li>
             </ul>
             <h4 class="text-theme-colored2">What you'll learn ?</h4>
               <p style="color:black">&#10004; &nbsp;&nbsp;&nbsp;Introduction to C Language<br/>

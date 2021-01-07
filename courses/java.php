@@ -323,12 +323,12 @@
             <div class="double-line-bottom-theme-colored-2"></div>
             <h4 class="text-theme-colored2">Who this course is for:</h4>
             <ul style="list-style-type:disc">
-                <li>Eager to learn Java Programming once and for all</li>
-          <li>Looking forward to a career in software development</li>
-            <li>Want to learn Java Programming for Web Designing</li>
+              <li>Eager to learn Java Programming once and for all</li>
+              <li>Looking forward to a career in software development</li>
+              <li>Want to learn Java Programming for Web Designing</li>
               <li>Willing to write their own Java Programming tools</li>
-                <li>Passionate for designing and development of softwares</li>
-                  <li>Looking to enhance IT skills and be prepared for software development</li>
+              <li>Passionate for designing and development of softwares</li>
+              <li>Looking to enhance IT skills and be prepared for software development</li>
             </ul>
             <h4 class="text-theme-colored2">What you'll learn ?</h4>
               <p style="color:black">&#10004; &nbsp;&nbsp;&nbsp;Introduction to Java Programming<br/>

@@ -322,12 +322,11 @@
             <div class="double-line-bottom-theme-colored-2"></div>
             <h4 class="text-theme-colored2">Who this course is for:</h4>
             <ul style="list-style-type:disc">
-                <li>Eager to learn Basic Excel once and for all</li>
-          <li>Looking forward to a career in cyber security</li>
-            <li>Want to learn Python programming for Basic Excel</li>
-              <li>Willing to write their own cyber security tools</li>
-                <li>Passionate for Kali Linux and general Basic Excel tools</li>
-                  <li>Looking to enhance IT skills and be prepared for hacker attacks</li>
+              <li>Eager to learn Basic Excel once and for all</li>
+              <li>Looking forward to a career in Excel</li>
+              <li>Want to learn How to enter basic formulas and calculations in Excel</li>
+              <li>Willing to write Absolute and relative references in Excel.</li>
+              <li>Rounding numbers in Excel</li>
             </ul>
             <h4 class="text-theme-colored2">What you'll learn ?</h4>
               <p style="color:black">&#10004; &nbsp;&nbsp;&nbsp;Excel Introduction<br/>
